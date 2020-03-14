@@ -1,5 +1,6 @@
 # Snap to edge for UIView
 
+@[snap_to_edges]https://github.com/maysamsh/snap-to-edge-uiview/blob/master/snap_to_edges.gif
 
 For Tahrir I wanted to add a new feature in the new major update. I thought implementing a snap to edge might help users to align texts with each other, on small screen and with fingers it would be difficult without it.
 
